@@ -69,7 +69,7 @@ function App() {
               <ShinyText text="Hi, I'm Samuel Oral Robert V" disabled={false} speed={3} className="custom-class" />
             </h1>
             <BlurText
-              text="Software & AI Engineer building backend systems, applied-AI pipelines, and developer tooling."
+              text="Computer Science graduate specializing in Python, SQL, and applied AI, building backend systems and data-driven pipelines."
               delay={150}
               animateBy="words"
               direction="top"
@@ -94,7 +94,7 @@ function App() {
           <div className="md:ml-auto animate__animated animate__fadeInUp animate__delay-4s">
             <ProfileCard
               name="Samuel Oral Robert V"
-              title="Software & AI Engineer"
+              title="Data Analytics & AI Engineer"
               handle="leumaslarotrebor"
               status="Open to work"
               contactText="Contact Me"
